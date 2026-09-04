@@ -1,3 +1,3 @@
 # Hello-World
-First cod
+First code
 I am Monica Lyles future computer programing
